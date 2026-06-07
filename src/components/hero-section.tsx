@@ -93,11 +93,13 @@ export default function HeroSection() {
           </button>
 
           <a
-            href="https://drive.google.com/file/d/1cZzN5PGczq1XVn8FF9Z-UFH9g6onlrkq/view?usp=sharing"
+            href="https://drive.google.com/file/d/1sjoXt3MS2BO6wnjsy2_1HBph-U9Qs60m/view?usp=sharing"
+            target="_blank"
+            rel="noopener noreferrer"
             className="group flex items-center gap-2 px-8 py-3.5 rounded-full bg-white/5 text-text-primary font-semibold text-sm border border-border-subtle hover:border-accent-magenta/30 hover:bg-white/10 transition-all duration-300"
           >
             <Download size={16} />
-            Download CV
+            Resume
           </a>
         </motion.div>
       </div>
